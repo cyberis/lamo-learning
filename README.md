@@ -5,4 +5,4 @@ This is a repo that was created just to go through the github workflow for a Sal
 Now isn't that ***better***?
 
 ## Fun Merging
-It is fun to create merge conflicts
+Let's merge conflicts with fun and create ***World Peace***
