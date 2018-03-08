@@ -3,3 +3,6 @@ This is a repo that was created just to go through the github workflow for a Sal
 
 ## New and Improved Readme
 Now isn't that ***better***?
+
+## Fun Merging
+It is fun to create merge conflicts
